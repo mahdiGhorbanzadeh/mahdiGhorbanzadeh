@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mahdi Ghorbanzadeh
 
-### A Backend & Blockchain Developer
+### A Blockchain Developer
 
 I'm a backend and blockchain developer with around 4 years of experience building decentralized applications and smart contracts. My work primarily focuses on Solidity-based development, integrating smart contracts with backend systems, and creating efficient, scalable architectures.
 
